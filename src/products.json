@@ -1,0 +1,8 @@
+
+
+[
+  { "id": 1, "productName": "T Shirt", "price" : 20.99 },
+  { "id": 2, "productName": "Jeans", "price": 26.99 },
+  { "id": 3, "productName": "Jacket", "price": 34.99 },
+  { "id": 4, "productName": "Gloves", "price": 5.25 }
+]
